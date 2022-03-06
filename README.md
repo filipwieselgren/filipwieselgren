@@ -1,4 +1,4 @@
-# Hi there, I'm Filip! 👋🏼
+# Hi there, I'm Filip! 👋🏼 I'm a front-end developer student.
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=filipwieselgren&show_icons=true&theme=dark" />
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipwieselgren&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
