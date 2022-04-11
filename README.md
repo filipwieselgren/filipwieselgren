@@ -31,6 +31,6 @@ Design<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 > ### 💻 What i'm currently working on
-
+<a href="https://github.com/filipwieselgren/chatbot" > Chatbot | Teach: Typescript, socket.io, Node.js, MongoDB </a>
 
 
