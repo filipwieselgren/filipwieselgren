@@ -33,5 +33,7 @@ Design<br>
 
 > ### 💻 What i'm currently working on
 <a href="https://github.com/filipwieselgren/chatbot" > Chatbot | Teach: Typescript, Socket.io, Node.js, MongoDB </a>
+<a href="https://github.com/filipwieselgren/webshop" > Webshop | Teach: React </a>
+
 
 
