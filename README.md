@@ -33,8 +33,8 @@ Design<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 > ### 💻 What i'm currently working on
-<a href="https://github.com/filipwieselgren/improveme-platform" > ImproveMe-platform | Teach: React, Typescript, Node.js/express, mongoose, MongoDB </a> <br><br>
-<a href="https://github.com/filipwieselgren/improveme-bot" > ImproveMe-bot | Teach: React, Typescript, Node.js/express, mongoose, MongoDB </a>
+<a href="https://github.com/filipwieselgren/improveme-platform" > ImproveMe-platform | Tech: React, Typescript, Node.js/express, mongoose, MongoDB </a> <br><br>
+<a href="https://github.com/filipwieselgren/improveme-bot" > ImproveMe-bot | Tech: React, Typescript, Node.js/express, mongoose, MongoDB </a>
 
 
 
